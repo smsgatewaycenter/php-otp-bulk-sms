@@ -1,4 +1,14 @@
 <?php
+/**************************************************************************************************
+| SmsGatewayCenter.com
+| httpw://www.SmsGatewayCenter.com
+| contact@SmsGatewayCenter.com.com
+|**************************************************************************************************
+| By using this software you agree that you have read and acknowledged our End-User License 
+| Agreement and to be bound by it.
+|
+| Copyright (c) 2010 - 2016 SmsGatewayCenter.com. All rights reserved.
+|**************************************************************************************************/
 	/////////////////////////////////////////////////////////////////////////////
 	//      SmsGatewayCenter.com One Time Password (OTP) Example               //
 	//      This script executes OTP and sends an SMS to authenticate user     //
