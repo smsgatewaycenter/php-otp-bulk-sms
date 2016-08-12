@@ -1,7 +1,7 @@
 <?php
 /**************************************************************************************************
 | SmsGatewayCenter.com
-| httpw://www.SmsGatewayCenter.com
+| https://www.SmsGatewayCenter.com
 | contact@SmsGatewayCenter.com.com
 |**************************************************************************************************
 | By using this software you agree that you have read and acknowledged our End-User License 
